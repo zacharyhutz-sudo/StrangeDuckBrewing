@@ -1,0 +1,60 @@
+{
+  "retrieved": "2026-11-15",
+  "assets": [
+    {
+      "file": "patio.jpg",
+      "description": "Guests with pints on the brewery patio overlooking the grounds",
+      "source_page": "https://www.bringfido.com/restaurant/132756",
+      "source_image": "https://photos.bringfido.com/restaurants/6/5/7/132756/132756_154260766.jpg.jpeg?size=full&density=2x",
+      "credit": "Strange Duck Brewing (@StrangeDuckBrewing), via BringFido",
+      "identity_confidence": "High: page explicitly names the brewery and credits @StrangeDuckBrewing",
+      "rights": "Brewery-attributed photograph. No open license found. Retain credit; brewery should confirm publishing rights."
+    },
+    {
+      "file": "exterior.jpg",
+      "description": "Front entrance, floral Strange Duck Brewing sign, colorful access ramp",
+      "source_page": "https://www.bringfido.com/restaurant/132756",
+      "source_image": "https://photos.bringfido.com/restaurants/6/5/7/132756/132756_154260767.jpg?size=full&density=2x",
+      "credit": "Strange Duck Brewing (@StrangeDuckBrewing), via BringFido",
+      "identity_confidence": "High: page caption plus visible brewery sign",
+      "rights": "Brewery-attributed photograph. No open license found. Retain credit; brewery should confirm publishing rights."
+    },
+    {
+      "file": "minigolf.jpg",
+      "description": "View from patio deck across colorful mini-golf course",
+      "source_page": "https://www.puttmaps.com/georgia/commerce/strange-duck-brewing-co",
+      "source_image": "https://ochwpsksvrxwyzwylmru.supabase.co/storage/v1/object/public/course-images/ga/strange-duck-brewing-co/0.jpg",
+      "credit": "Photo via PuttMaps; original photographer not specified",
+      "identity_confidence": "High: named listing and matching deck/grounds seen in other verified photos",
+      "rights": "Third-party photograph; no open license or reuse permission established. Confirm rights before public publication or replace with brewery-owned photo."
+    },
+    {
+      "file": "beer-1.jpg",
+      "description": "Quacktastic JR. pint inside Strange Duck taproom",
+      "source_page": "https://untappd.com/user/BeerBikerguy/checkin/1613737918",
+      "source_image": "https://untappd.s3.amazonaws.com/photos/2026_11_07/fda5baa06400a76d412f71aced25d000_c_1613737918_raw.jpg",
+      "credit": "Junior Beerman (@BeerBikerguy), via Untappd",
+      "identity_confidence": "High: linked check-in explicitly names Quacktastic JR. by Strange Duck Brewing at Strange Duck Brewing, November 7, 2026",
+      "rights": "User-contributed photograph; no open license or reuse permission established. Confirm rights before public publication or replace with brewery-owned photo."
+    },
+    {
+      "file": "beer-2.jpg",
+      "description": "Mr. Quacktastic in a plastic cup inside taproom",
+      "source_page": "https://untappd.com/user/westondr/checkin/1613719888",
+      "source_image": "https://untappd.s3.amazonaws.com/photos/2026_11_07/c40d020459125bd571f6d3f62f0d493a_c_1613719888_raw.jpg",
+      "credit": "Doug D3PO (@westondr), via Untappd",
+      "identity_confidence": "High: linked check-in names beer and venue, November 7, 2026",
+      "rights": "User-contributed photograph; no open license or reuse permission established. Confirm rights before public publication or replace with brewery-owned photo. Optional candidate; beer-1 is stronger."
+    },
+    {
+      "file": "beer-3.jpg",
+      "description": "Strange Duck outdoor stage, grounds and wrestling event; no beer is pictured",
+      "source_page": "https://untappd.com/user/Quinnt/checkin/1612117332",
+      "source_image": "https://untappd.s3.amazonaws.com/photos/2026_10_30/96b20e310730bb0e0b7c9314d251bc74_c_1612117332_raw.jpg",
+      "credit": "Rob Quinn (@Quinnt), via Untappd",
+      "identity_confidence": "High: brewery-linked check-in, October 30, 2026; visible bus stage and matching grounds",
+      "rights": "User-contributed photograph; no open license or reuse permission established. Confirm rights before public publication or replace with brewery-owned photo."
+    }
+  ],
+  "team_note": "No independently verified stand-alone headshots of Drake Scott or Kristan Robertson located. Do not label unidentified people in venue images as team members."
+}
