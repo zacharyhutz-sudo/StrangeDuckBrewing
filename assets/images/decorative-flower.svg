@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 460" fill="#e37050">
+  <defs>
+    <rect id="petal" x="199" y="8" width="62" height="228" rx="31"/>
+  </defs>
+  <use href="#petal"/>
+  <use href="#petal" transform="rotate(45 230 230)"/>
+  <use href="#petal" transform="rotate(90 230 230)"/>
+  <use href="#petal" transform="rotate(135 230 230)"/>
+  <use href="#petal" transform="rotate(180 230 230)"/>
+  <use href="#petal" transform="rotate(225 230 230)"/>
+  <use href="#petal" transform="rotate(270 230 230)"/>
+  <use href="#petal" transform="rotate(315 230 230)"/>
+</svg>
