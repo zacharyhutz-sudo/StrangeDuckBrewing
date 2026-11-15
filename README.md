@@ -1,4 +1,4 @@
-# Strange Duck Brewing Co. — GitHub Pages website
+# Strange Duck Brewing Co. - GitHub Pages website
 
 A complete static website with Home, Our Story & Team, Drinks, and Contact pages. Built November 15, 2026.
 
